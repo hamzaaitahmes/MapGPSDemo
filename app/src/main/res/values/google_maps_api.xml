@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    Remplacez VOTRE_CLE_API par la clé que vous avez générée sur Google Cloud Console.
+    Attention : ne publiez jamais cette clé sur GitHub.
+    -->
+    <string name="google_maps_key" translatable="false">VOTRE_CLE_API</string>
+</resources>
